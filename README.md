@@ -1,5 +1,5 @@
 # Cohere Poet
-A Poet AI powered by Cohere
+A Poet AI powered by Cohere.com
 
 # How To Use
 Install Dependencies 
